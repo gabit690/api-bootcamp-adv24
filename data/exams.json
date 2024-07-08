@@ -1,0 +1,599 @@
+[
+  {
+    "id": 1,
+    "tema": "HTML",
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "¿Qué significa HTML?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "Hyperlinks and Text Markup Language",
+            "esCorrecta": false
+          },
+          {
+            "id": "b",
+            "respuesta": "Hyper Text Markup Language",
+            "esCorrecta": true
+          },
+          {
+            "id": "c",
+            "respuesta": "High Tech Markup Language",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "enunciado": "¿Qué elemento se usa para definir un título en un documento HTML?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "<title>",
+            "esCorrecta": false
+          },
+          {
+            "id": "b",
+            "respuesta": "<h1>",
+            "esCorrecta": true
+          },
+          {
+            "id": "c",
+            "respuesta": "<header>",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "enunciado": "¿Cuál es la etiqueta correcta para insertar una línea horizontal en HTML?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "<line>",
+            "esCorrecta": false
+          },
+          {
+            "id": "b",
+            "respuesta": "<hr>",
+            "esCorrecta": true
+          },
+          {
+            "id": "c",
+            "respuesta": "<linebreak>",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "enunciado": "¿Qué atributo se usa para especificar el texto alternativo para una imagen en HTML?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "alt",
+            "esCorrecta": true
+          },
+          {
+            "id": "b",
+            "respuesta": "src",
+            "esCorrecta": false
+          },
+          {
+            "id": "c",
+            "respuesta": "href",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "enunciado": "¿Cuál es la etiqueta correcta para crear una lista desordenada en HTML?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "<ol>",
+            "esCorrecta": false
+          },
+          {
+            "id": "b",
+            "respuesta": "<ul>",
+            "esCorrecta": true
+          },
+          {
+            "id": "c",
+            "respuesta": "<li>",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "enunciado": "¿Qué etiqueta se usa para definir un enlace en HTML?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "<link>",
+            "esCorrecta": false
+          },
+          {
+            "id": "b",
+            "respuesta": "<a>",
+            "esCorrecta": true
+          },
+          {
+            "id": "c",
+            "respuesta": "<href>",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "enunciado": "¿Cuál es la etiqueta correcta para definir un párrafo en HTML?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "<paragraph>",
+            "esCorrecta": false
+          },
+          {
+            "id": "b",
+            "respuesta": "<p>",
+            "esCorrecta": true
+          },
+          {
+            "id": "c",
+            "respuesta": "<para>",
+            "esCorrecta": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tema": "CSS",
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "¿Qué significa CSS?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "Creative Style Sheets",
+            "esCorrecta": false
+          },
+          {
+            "id": "b",
+            "respuesta": "Cascading Style Sheets",
+            "esCorrecta": true
+          },
+          {
+            "id": "c",
+            "respuesta": "Computer Style Sheets",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "enunciado": "¿Cuál es la propiedad CSS que se usa para cambiar el color de fondo de un elemento?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "text-color",
+            "esCorrecta": false
+          },
+          {
+            "id": "b",
+            "respuesta": "background-color",
+            "esCorrecta": true
+          },
+          {
+            "id": "c",
+            "respuesta": "color-background",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "enunciado": "¿Qué unidad de medida se usa comúnmente para especificar tamaños en CSS que se ajustan automáticamente según el tamaño de la pantalla?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "Pixels (px)",
+            "esCorrecta": true
+          },
+          {
+            "id": "b",
+            "respuesta": "Centimeters (cm)",
+            "esCorrecta": false
+          },
+          {
+            "id": "c",
+            "respuesta": "Responsive Units (ru)",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "enunciado": "¿Cuál es la propiedad CSS que se usa para centrar un elemento horizontalmente?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "text-align",
+            "esCorrecta": true
+          },
+          {
+            "id": "b",
+            "respuesta": "center-align",
+            "esCorrecta": false
+          },
+          {
+            "id": "c",
+            "respuesta": "margin",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "enunciado": "¿Cuál es la propiedad CSS que se usa para aplicar bordes a un elemento?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "border",
+            "esCorrecta": true
+          },
+          {
+            "id": "b",
+            "respuesta": "outline",
+            "esCorrecta": false
+          },
+          {
+            "id": "c",
+            "respuesta": "frame",
+            "esCorrecta": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tema": "Git",
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "¿Qué comando se utiliza en Git para clonar un repositorio remoto?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "git push",
+            "esCorrecta": false
+          },
+          {
+            "id": "b",
+            "respuesta": "git clone",
+            "esCorrecta": true
+          },
+          {
+            "id": "c",
+            "respuesta": "git pull",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "enunciado": "¿Qué comando se utiliza en Git para cambiar de rama (branch)?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "git branch",
+            "esCorrecta": true
+          },
+          {
+            "id": "b",
+            "respuesta": "git checkout",
+            "esCorrecta": false
+          },
+          {
+            "id": "c",
+            "respuesta": "git new",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "enunciado": "¿Qué comando se utiliza en Git para ver el historial de commits?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "git log",
+            "esCorrecta": true
+          },
+          {
+            "id": "b",
+            "respuesta": "git status",
+            "esCorrecta": false
+          },
+          {
+            "id": "c",
+            "respuesta": "git diff",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "enunciado": "¿Qué comando se utiliza en Git para deshacer cambios locales en un archivo específico?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "git reset HEAD",
+            "esCorrecta": false
+          },
+          {
+            "id": "b",
+            "respuesta": "git checkout --",
+            "esCorrecta": true
+          },
+          {
+            "id": "c",
+            "respuesta": "git revert",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "enunciado": "¿Qué comando se utiliza en Git para fusionar una rama con la rama actual?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "git merge",
+            "esCorrecta": true
+          },
+          {
+            "id": "b",
+            "respuesta": "git push",
+            "esCorrecta": false
+          },
+          {
+            "id": "c",
+            "respuesta": "git pull",
+            "esCorrecta": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "tema": "JavaScript",
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "¿Qué tipo de lenguaje es JavaScript?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "Lenguaje de marcado",
+            "esCorrecta": false
+          },
+          {
+            "id": "b",
+            "respuesta": "Lenguaje de programación",
+            "esCorrecta": true
+          },
+          {
+            "id": "c",
+            "respuesta": "Lenguaje de consulta",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "enunciado": "¿Cómo se declara una variable en JavaScript?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "var",
+            "esCorrecta": true
+          },
+          {
+            "id": "b",
+            "respuesta": "variable",
+            "esCorrecta": false
+          },
+          {
+            "id": "c",
+            "respuesta": "int",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "enunciado": "¿Cuál es la forma correcta de escribir un comentario de una línea en JavaScript?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "<!-- Este es un comentario -->",
+            "esCorrecta": false
+          },
+          {
+            "id": "b",
+            "respuesta": "/* Este es un comentario */",
+            "esCorrecta": false
+          },
+          {
+            "id": "c",
+            "respuesta": "// Este es un comentario",
+            "esCorrecta": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "enunciado": "¿Cuál es el operador de comparación estricta en JavaScript?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "==",
+            "esCorrecta": false
+          },
+          {
+            "id": "b",
+            "respuesta": "===",
+            "esCorrecta": true
+          },
+          {
+            "id": "c",
+            "respuesta": "=",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "enunciado": "¿Cuál es la función en JavaScript que se utiliza para imprimir en la consola?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "console.log()",
+            "esCorrecta": true
+          },
+          {
+            "id": "b",
+            "respuesta": "print()",
+            "esCorrecta": false
+          },
+          {
+            "id": "c",
+            "respuesta": "log()",
+            "esCorrecta": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "tema": "Metodologías Ágiles",
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "¿Qué metodología ágil se centra en iteraciones cortas llamadas sprints?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "Scrum",
+            "esCorrecta": true
+          },
+          {
+            "id": "b",
+            "respuesta": "Kanban",
+            "esCorrecta": false
+          },
+          {
+            "id": "c",
+            "respuesta": "Waterfall",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "enunciado": "¿Cuál de las siguientes prácticas ágiles se enfoca en la mejora continua en equipos pequeños?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "Lean",
+            "esCorrecta": false
+          },
+          {
+            "id": "b",
+            "respuesta": "Agile Manifesto",
+            "esCorrecta": false
+          },
+          {
+            "id": "c",
+            "respuesta": "Kaizen",
+            "esCorrecta": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "enunciado": "¿Qué principio ágil promueve la colaboración diaria entre desarrolladores y personas de negocio?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "Individuals and interactions over processes and tools",
+            "esCorrecta": true
+          },
+          {
+            "id": "b",
+            "respuesta": "Customer collaboration over contract negotiation",
+            "esCorrecta": false
+          },
+          {
+            "id": "c",
+            "respuesta": "Working software over comprehensive documentation",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "enunciado": "¿Qué metodología ágil enfatiza la adaptación al cambio y la entrega continua?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "Kanban",
+            "esCorrecta": false
+          },
+          {
+            "id": "b",
+            "respuesta": "Extreme Programming (XP)",
+            "esCorrecta": true
+          },
+          {
+            "id": "c",
+            "respuesta": "Agile Scrum",
+            "esCorrecta": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "enunciado": "¿Qué término ágil se refiere a una reunión breve diaria para sincronizar el trabajo del equipo?",
+        "opciones": [
+          {
+            "id": "a",
+            "respuesta": "Retrospectiva",
+            "esCorrecta": false
+          },
+          {
+            "id": "b",
+            "respuesta": "Daily Stand-up",
+            "esCorrecta": true
+          },
+          {
+            "id": "c",
+            "respuesta": "Planning Poker",
+            "esCorrecta": false
+          }
+        ]
+      }
+    ]
+  }
+]

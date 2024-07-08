@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "apellido": "Huenteman",
+    "edad": 32
+  },
+  {
+    "id": 2,
+    "nombre": "Gabriel",
+    "apellido": "Valeriano",
+    "edad": 34
+  },
+  {
+    "id": 3,
+    "nombre": "Federico",
+    "apellido": "Huenteman",
+    "edad": 27
+  },
+  {
+    "id": 4,
+    "nombre": "Ezequiel",
+    "apellido": "Monaco",
+    "edad": 22
+  },
+  {
+    "id": 5,
+    "nombre": "Abril",
+    "apellido": "Agüero",
+    "edad": 21
+  },
+  {
+    "id": 6,
+    "nombre": "Joquin",
+    "apellido": "Guerrini",
+    "edad": 19
+  },
+  {
+    "id": 7,
+    "nombre": "Anthony",
+    "apellido": "Trillo",
+    "edad": 25
+  },
+  {
+    "id": 8,
+    "nombre": "Mariano",
+    "apellido": "Betró",
+    "edad": 21
+  },
+  {
+    "id": 9,
+    "nombre": "Ivan",
+    "apellido": "Maieru",
+    "edad": 23
+  },
+  {
+    "id": 10,
+    "nombre": "Eric",
+    "apellido": "Yapura",
+    "edad": 20
+  },
+  {
+    "id": 11,
+    "nombre": "Diego",
+    "apellido": "Vázquez",
+    "edad": 24
+  },
+  {
+    "id": 12,
+    "nombre": "Julián",
+    "apellido": "Magra",
+    "edad": 22
+  },
+  {
+    "id": 13,
+    "nombre": "Ada",
+    "apellido": "Lovelace",
+    "edad": 23
+  },
+  {
+    "id": 14,
+    "nombre": "Ralph",
+    "apellido": "Baer",
+    "edad": 21
+  },
+  {
+    "id": 15,
+    "nombre": "Linus",
+    "apellido": "Torvalds",
+    "edad": 54
+  }
+]
